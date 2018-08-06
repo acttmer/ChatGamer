@@ -1,5 +1,5 @@
 {
-  "name": "mybot",
+  "name": "chatgamer",
   "version": "1.0.0",
   "dependencies": {
     "@types/md5": "^2.1.32",
