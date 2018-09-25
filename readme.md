@@ -30,7 +30,7 @@
 - Enjoy your game
 
 # How to play
-- Find array "admins"
+- Find array "admins" in main.ts
 - Add your wechat nickname to it
 - In a group, send "看谁能够一站到底"
 - When everyone joins the game, send "游戏开始"
