@@ -1,6 +1,6 @@
 # Requirements
 
-## A complete development environment
+## Development environment
 ### First thing
 - Install Nodejs (Version >= 10.x)
 - `npm install typescript ts-node -g`
